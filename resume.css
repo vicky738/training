@@ -1,0 +1,24 @@
+body
+{
+    border: 5px solid rgb(17, 13, 13);
+    width: 650px;
+    margin: 40px auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Times New Roman';
+    
+}
+table,td,th
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+#project
+{
+    text-align: justify;
+}
+#sign
+{
+    text-align: right;
+    padding-right: 20px;
+}
